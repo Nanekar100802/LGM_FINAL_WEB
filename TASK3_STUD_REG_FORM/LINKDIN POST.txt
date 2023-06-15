@@ -1,0 +1,10 @@
+Hello Everyone!!
+I am glad to share that I have successfully completed #task3 as a Web Development intern at
+#LetsGrowMore(LGM) Community Virtual internship (#LGMVIP).
+Task 3:- Create a Registration Form Whose data display on the same page using HTML, CSS & JS.
+Level:- Intermediate Level
+IDE:- Visual Studio Code.
+GitHub Repository link:- https://github.com/Nanekar100802/LGMTASK/tree/main/TASK3_STUD_REG_FORM
+
+I would like to thank Aman Kesarwani sir and LetsGrowMore (LGM) Community community for giving me this opportunity.
+#letsgrowmore #internship #webdevelopment #github #intern #opportunity
